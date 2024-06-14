@@ -44,7 +44,7 @@ jobs:
           application_name: todolistapi2
           environment_name: todolistapi2-env
           version_label: ${{github.SHA}}
-          region: us-east-2
+          region: us-east-1
           deployment_package: ToDoListApi-1.0.jar
 
 
