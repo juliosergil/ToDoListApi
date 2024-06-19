@@ -7,5 +7,5 @@ public class TodoRequest {
 
 	private String title;
 	private String description;
-	private String completed;
+	private boolean completed;
 }
